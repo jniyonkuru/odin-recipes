@@ -1,5 +1,5 @@
 The project is about creating  recipes webpages
-#############################################
+
 
 
 it is built, as a part of the course of HTML
@@ -10,4 +10,4 @@ git(version control system) and gitHub service.
 
 Author:niyonkuru jacques
 Andela Kickstart program.
-##############################################
+
